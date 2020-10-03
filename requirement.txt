@@ -1,0 +1,1 @@
+This file defines outside Python dependencies and thier version of your application.
